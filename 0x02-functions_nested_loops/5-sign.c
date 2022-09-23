@@ -7,7 +7,7 @@
  * 0 and print 0 if n is = zero
  * -1 and print - if n is < zero.
  */
-int print_sign(int n);
+int print_sign(int n)
 {
 	if (n > 0)
 	{
