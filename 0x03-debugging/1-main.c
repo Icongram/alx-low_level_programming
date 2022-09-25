@@ -2,7 +2,7 @@
 
 /**
  * main - causes an infinite loop
- * Return: o
+ * Return: 0
  */
 
 int main(void)
@@ -13,12 +13,12 @@ int main(void)
 
 	i = 0;
 
-	/*while (i < 10)
-	{
-		putchar(i);
-	}*/
-
-	printf("Infimite loop avoided! \\o/\n");
+	/*while (i < 10) */
+	/*{ */
+	/*	putchar(i);*/
+	}/* */
+	
+	printf("Infinite loop avoided! \\o/\n");
 
 	return (0);
 }
