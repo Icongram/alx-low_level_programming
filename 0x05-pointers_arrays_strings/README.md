@@ -1,1 +1,1 @@
-practicing arrays and strings in c
+tasks on pointers, arrays and strings
